@@ -35,19 +35,11 @@ This page encompasses the development process of my Pomodoro Timer which primari
 
 - Set the timer for each work session, short break, and long break.
 
-![Untitled](https://www.notion.so/MIND-DOJO-43f5b39a692046bda6268763e9e2f5fe?pvs=4#eb7f568ee9bd44608e3fb32680c0ef88)
-
 - Click Start Session to begin the timer. Every set contains 4 work sessions. There are short breaks between each session. After the 4th work session, long break will then follow.
-
-![Untitled](https://www.notion.so/MIND-DOJO-43f5b39a692046bda6268763e9e2f5fe?pvs=4#a55ffe86d0c8438c9720037dccbe02a3)
 
 - To pause the session, click the ‘Pause’ button. Pause button will allow the timer to stop without restarting the whole set.
 
-![Untitled](https://www.notion.so/MIND-DOJO-43f5b39a692046bda6268763e9e2f5fe?pvs=4#c075cb895fbd40f7b6a208a84b4f54dd)
-
 - In contrary with the functionality of ‘Pause’ button, ‘Stop’ button will also stop the timer, but restart the whole set of work sessions.
-
-![Untitled](https://www.notion.so/MIND-DOJO-43f5b39a692046bda6268763e9e2f5fe?pvs=4#d49e782cef224c10839f719f824050aa)
 
 - Meanwhile, a ‘Reset’ button will allow user to reset the timer for a particular work session. It also means that the user cannot reset the timer once the break time commences. This is to ensure that user would maximize their productivity from preventing them to procrastinate.
 
